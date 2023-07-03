@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "83556898-dde0-4e52-a5b5-a07160908ee7",
+		"name": "Planets",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25323725"
+	},
+	"item": [
+		{
+			"name": "api/planets/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://swapi.dev/api/planets",
+					"protocol": "https",
+					"host": [
+						"swapi",
+						"dev"
+					],
+					"path": [
+						"api",
+						"planets"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
